@@ -1,5 +1,5 @@
 This is my first Github class
-
+Github 1 push
 echo "# firstgitproject" >> README.md
 git init create a .git folder in our computer
 git add .
@@ -10,3 +10,7 @@ local project to remote repository github
 git push -u origin main
 
 ******then my code should be pushed to github, refresh your page to see to see the code
+ this is my second commit- new code new version
+ git add .
+ git commit -m "updating the code"
+ git push
