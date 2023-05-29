@@ -1,3 +1,12 @@
 This is my first Github class
 
-git init - create a .git folder in our computer
+echo "# firstgitproject" >> README.md
+git init create a .git folder in our computer
+git add .
+git commit -m "first commit" = create a new version
+git branch -M main =creating a new branch called main
+git remote add origin https://github.com/agnieszkaczarnocka/firstgitproject.git = connects
+local project to remote repository github
+git push -u origin main
+
+******then my code should be pushed to github, refresh your page to see to see the code
